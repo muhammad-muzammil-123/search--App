@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+
+.navbar{
+    background-color: #23036a !important;
+    height: 80px; 
+
+}
+.container-fluid{
+    background-color: #23036a;
+    height: 80px;
+    
+}
+.navbar-brand{
+    color: #fff !important;
+    font-weight: bold;
+}
+.btn{
+ background-color: #fff !important;
+ color: grey !important;
+}
+.btn:hover{
+    color: #23036a !important;
+}
+.form-select{
+    width: 200px !important;
+}
+.logo-image{
+    
+    display: flex;
+    justify-content: center;
+   
+}
+.card{
+    box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.1);
+
+}
+
+.car-images{
+        object-fit: contain;
+        background-repeat: no-repeat;
+        background-size: cover;
+         height: 130px;
+         transition: 1s;
+        
+        
+
+}
+.car-images:hover{
+    transform: scale(1.2);
+    z-index: 2;
+}
+
+.row{
+    background-color: rgb(238, 236, 236);
+    ;
+  
+}
+.filter-image{
+   height: 400px;
+   
+
+}
+.colors{
+    width: 20px;
+    height: 20px;
+  border-radius: 10px;
+ 
+}
+
+
+
+
+
+
+
+
+
